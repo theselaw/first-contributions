@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Omosaye Moses Iseoluwa](https://github.com/Theselaw)
 - [Harsh Mohan Yadav](https://github.com/InsanelyHarsh)
 - [Jian Sun](https://github.com/zjiansun)
 - [Ishika Jain](https://github.com/Ishikajain02)
